@@ -4,7 +4,7 @@
     "json.schemas": [
         {
             "fileMatch": [ "**/meta.json" ],
-            "url": "https://raw.githubusercontent.com/Simple-Station/Einstein-Engines/master/.github/rsi-schema.json"
+            "url": "https://raw.githubusercontent.com/Lost-Paradise-Project/Main-Station/master/.github/rsi-schema.json"
         }
     ]
 }

@@ -10,6 +10,14 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Secret
+NewSecrets
+PShared*
+PServer*
+PClient*
+Resources/Prototypes/PPrototypes
+Resources/Textures/PTextures
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -307,5 +315,5 @@ Resources/MapImages
 # Direnv stuff
 .direnv/
 
-# Changelog package lock
-package-lock.json
+# locale fix
+!Resources/Locale/**

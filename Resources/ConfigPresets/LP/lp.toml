@@ -1,0 +1,5 @@
+﻿[viewport]
+maximum_width = 26
+
+[netres]
+limit = 25.0

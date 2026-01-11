@@ -1,8 +1,8 @@
-# Reporting a security vulnerability
+# Сообщить об уязвимости безопасности
 
-You can report a security vulnerability through Discord or through email.
+Вы можете сообщить об уязвимости через Discord или по электронной почте.
 
-If you want to send an email, you can contact us at <simplestation@simplestation.org>.
-If you want to contact us through Discord, you can join [our server](https://discord.gg/X4QEXxUrsJ) and then **privately** message anyone with the `@Maintainer` role.
+Если вы хотите отправить письмо, вы можете связаться с нами по адресу <simplestation@simplestation.org>.
+Если вы хотите связаться с нами через Discord, вы можете присоединиться к [нашему серверу](https://discord.gg/X4QEXxUrsJ) и написать в **личные сообщения** любому пользователю с ролью `@Maintainer`.
 
-In either case, **do not publicly disclose the vulnerability until we explicitly give you permission to do so**.
+В любом случае, **не разглашайте информацию об уязвимости публично до тех пор, пока мы не дадим на это явное разрешение**.

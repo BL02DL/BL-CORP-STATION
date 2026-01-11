@@ -1,62 +1,49 @@
+<!-- ЭТО ШАБЛОН ВАШЕГО PULL REQUEST. Текст между стрелками - это комментарии - их нужно удалить. -->
+
+**Описание обновления**
+<!--                         Например.
+ Я изменил все текстуры дверей на новые кроме, дверей ЦК и Адвоката.
+ Добавил возможность развести костёр кликая заженной спичкой по бревну.-->
+
+**Медиа**
+<!-- Если приемлемо, добавьте скриншоты для демонстрации вашего PR. Если ваш PR представляет собой визуальное изменение, добавьте
+скриншоты, иначе он может быть закрыт. -->
+
+**TODO**
 <!--
-This is a semi-strict format, you can add/remove sections as needed but the order/format should be kept the same
-Remove these comments before submitting
+Список того что вы ещё будете делать с этим пулл реквестом.
+
+- [ ] Текст
+
 -->
 
-# Description
+**Проверки**
+<!-- Выполнение всех следующих действий, если это приемлемо для вида изменений сильно ускорит разбор вашего PR -->
+- [ ] PR завершён и мне не нужна помощь чтобы его закончить.
+- [ ] Я внимательно просмотрел все свои изменения и багов в них не нашёл.
+- [ ] Я запускал локальный сервер со своими изменениями и всё протестировал.
+- [ ] Я добавил скриншот/видео демонстрации PR в игре, **или** этот PR этого не требует.
+- [ ] Я не добавлял контент нарушающий чужие авторские права.
+- [ ] Я не добавлял переводы в прототипы, а сделал их с помощью скрипта translations.bat в Tools/SS14_RU.
+- [ ] Я не добавлял лишние изменения в PR. Т.е. 1 идея/задача на 1 PR.
+- [ ] Я прочитал CONTRIBUTING.md и следовал его правилам.
 
+**Изменения**
 <!--
-Explain this PR in as much detail as applicable
+Здесь вы можете написать список изменений, который будет автоматически добавлен в игру, когда ваш PR будет принят.
 
-Some example prompts to consider:
-How might this affect the game? The codebase?
-What might be some alternatives to this?
-How/Who does this benefit/hurt [the game/codebase]?
+В журнал изменений следует помещать только то, что действительно важно игрокам.
+
+В списке изменений тип значка не является часть предложения, поэтому явно указывайте - Добавлен, Удалён, Изменён.
+плохо: - add: Новый инструмент для инженеров
+хорошо: - add: Добавлен новый инструмент для инженеров
+
+Вы можете указать своё имя после символа :cl: именно оно будет отображаться в журнале изменений (иначе будет использоваться ваше имя на GitHub)
+Например: :cl: Клоун
 -->
 
-Description.
-
----
-
-# TODO
-
-<!--
-A list of everything you have to do before this PR is "complete"
-You probably won't have to complete everything before merging but it's good to leave future references
--->
-
-- [ ] Task
-- [x] Completed Task
-
----
-
-<!--
-This is default collapsed, readers click to expand it and see all your media
-The PR media section can get very large at times, so this is a good way to keep it clean
-The title is written using HTML tags
-The title must be within the <summary> tags or you won't see it
--->
-
-<details><summary><h1>Media</h1></summary>
-<p>
-
-![Example Media Embed](https://example.com/thisimageisntreal.png)
-
-</p>
-</details>
-
----
-
-# Changelog
-
-<!--
-You can add an author after the `:cl:` to change the name that appears in the changelog (ex: `:cl: Death`)
-Leaving it blank will default to your GitHub display name
-This includes all available types for the changelog
--->
-
-:cl:
-- add: Added fun :D
-- tweak: Tweaked fun
-- fix: Fixed fun!
-- remove: Removed fun :(
+:cl: Клоун
+- add: Добавлено веселье!
+- remove: Убрано веселье!
+- tweak: Изменено веселье!
+- fix: Исправлено веселье!
