@@ -1,16 +1,16 @@
-blood-cult-title = The Blood Cult
-blood-cult-description = The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
-roles-antag-blood-cultist-name = Blood cultist
-roles-antag-blood-cultist-objective = Summon the Old God Nar'Sie.
+blood-cult-title = Кровавый культ
+blood-cult-description = Самая древняя и сильная эмоция человечества - это страх, а самый древний и сильный вид страха - это страх неизвести.
+roles-antag-blood-cultist-name = Кровавый культист
+roles-antag-blood-cultist-objective = Призовите старого бога Нар'Си.
 blood-cult-role-greeting =
-    The Geometer of Blood, Nar-Sie, has sent a number of her followers to Space Station.
-    As a cultist, you have an abundance of cult magics at your disposal, something for all situations.
-    You must work with your brethren to summon an avatar of your eldritch goddess!
-blood-cult-role-briefing-short = Use your eldritch language to telepathically contact other members of your brethren.
-blood-cult-role-briefing-rending-locations = The veil can be thorn { $location }, { $coordinates }
-blood-cult-role-briefing-emergency-rending = We can draw { $amount } more rending or apocalypse runes!
-blood-cult-condition-win = The Geometer of Blood has successfully summoned their Eldritch Goddess!
-blood-cult-condition-draw = Both parties were destroyed.
-blood-cult-condition-failure = The crew have managed to stop the rending of reality!
-blood-cultists-list-start = Members of Geometer of Blood were:
+    Геометр крови, Нар-Си, отправил своего последователя на космическую станцию.
+    Как культист, в вашем распоряжении магия культа, всё под все ситуации.
+    Вы должны работать сообща со своими собратьями дабы призвать аватар своего божества!
+blood-cult-role-briefing-short = Используйте сверхестественный язык для контакта с собратьями.
+blood-cult-role-briefing-rending-locations = Завеса может быть колючей { $location }, { $coordinates }
+blood-cult-role-briefing-emergency-rending = Мы можем нарисовать { $amount } больше раздиирающих и апокалиптичных рун!
+blood-cult-condition-win = Геометр крови успешно призвал свою богиню!
+blood-cult-condition-draw = Обе стороны были уничтожены.
+blood-cult-condition-failure = Экипаж остановил разрыв реальности!
+blood-cultists-list-start = Членами геометра крови были:
 blood-cultists-list-name = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color])

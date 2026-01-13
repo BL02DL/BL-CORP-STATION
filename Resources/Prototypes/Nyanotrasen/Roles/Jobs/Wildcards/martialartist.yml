@@ -6,7 +6,7 @@
   startingGear: MartialArtistGear
   icon: "JobIconMartialArtist"
   supervisors: job-supervisors-hop
-  setPreference: true
+  setPreference: false # LP edit
 #  whitelistRequired: true
   access:
   - Maintenance

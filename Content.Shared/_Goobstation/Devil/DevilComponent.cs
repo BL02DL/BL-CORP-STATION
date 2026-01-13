@@ -70,10 +70,10 @@ public sealed partial class DevilComponent : Component
     public TimeSpan CooldownDuration = TimeSpan.FromSeconds(30);
 
     [DataField]
-    public ProtoId<DatasetPrototype> FirstNameTrue = new("names_devil_first");
+    public ProtoId<LocalizedDatasetPrototype> FirstNameTrue = new("names_devil_first"); // LP edit
 
     [DataField]
-    public ProtoId<DatasetPrototype> LastNameTrue = new("names_devil_last");
+    public ProtoId<LocalizedDatasetPrototype> LastNameTrue = new("names_devil_last"); // LP edit
 
     /// <summary>
     /// How much damage taken when a true name is spoken. Doubled if spoken by the chaplain.

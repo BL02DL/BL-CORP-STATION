@@ -1,7 +1,9 @@
 - type: job
   id: BlueshieldOfficer
-  name: Blueshield Officer
-  description: "Act as a bodyguard and advisor for Command and CentCom VIPs."
+  # LP edit start
+  name: job-name-blueshield
+  description: job-description-blueshield
+  # LP edit end
   playTimeTracker: JobBlueshieldOfficer
   requirements:
     - !type:CharacterDepartmentTimeRequirement
@@ -13,6 +15,13 @@
     - !type:CharacterDepartmentTimeRequirement
       department: Security
       min: 54000 # 15 hours
+    # LP edit start
+    - !type:CharacterSpeciesRequirement
+      inverted: true
+      species:
+      - Diona
+      - IPC
+    # LP edit end
     - !type:CharacterTraitRequirement
       inverted: true
       traits:

@@ -1,2 +1,2 @@
-ent-WeaponCaptainRevolverShotgun = BRDI-P33 "Jury" Револьвер
+ent-WeaponCaptainRevolverShotgun = револьвер BRDI-P33 «Джури»
     .desc = Невероятно редкий, элегантный и мощный револьвер, которых на весь космос всего двадцать! В комплекте три барабана по 12 патронов в каждом.

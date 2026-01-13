@@ -21,7 +21,7 @@
 
   startingGear: ClerkGear
   icon: "JobIconClerk"
-  requireAdminNotify: true
+  requireAdminNotify: false # LP edit
   supervisors: job-supervisors-cj
   canBeAntag: false
   access:

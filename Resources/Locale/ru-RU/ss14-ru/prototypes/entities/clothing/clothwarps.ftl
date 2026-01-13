@@ -1,2 +1,2 @@
-ent-ClothingClothWrap = cloth wraps
-    .desc = A roll of treated canvas used for wrapping claws or paws.
+ent-ClothingClothWrap = обмотки на ноги
+    .desc = Рулон обработанного холста, используемый для обертывания когтей или лап.

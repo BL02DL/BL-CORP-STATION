@@ -1,6 +1,6 @@
 ent-UnburnedDiskPrototype = unburned disk dummy prototype
     .desc = { "" }
-ent-CrewMonitorDiskPrototype = Crew Monitor
+ent-CrewMonitorDiskPrototype = монитор экипажа
     .desc = { "" }
-ent-CommunicationsConsoleDiskPrototype = Communications Console
+ent-CommunicationsConsoleDiskPrototype = консоль связи
     .desc = { "" }

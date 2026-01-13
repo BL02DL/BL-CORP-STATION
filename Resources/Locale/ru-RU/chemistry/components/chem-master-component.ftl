@@ -11,24 +11,24 @@ chem-master-bound-user-interface-title = ХимМастер 4000
 
 chem-master-window-input-tab = Вход
 chem-master-window-output-tab = Выход
-chem-master-window-pill-buffer-tab = Pill Buffer
+chem-master-window-pill-buffer-tab = Буффер таблеток
 chem-master-window-container-label = Контейнер
-chem-master-window-amount-placeholder = Transfer Amount
+chem-master-window-amount-placeholder = Количество перемещения
 chem-master-window-eject-button = Извлечь
 chem-master-window-no-container-loaded-text = Контейнер не загружен.
 chem-master-window-buffer-text = Буфер
 chem-master-window-buffer-label = буфер:
 chem-master-window-buffer-empty-text = Буфер пуст.
-chem-master-window-pill-buffer-text = Pill Buffer
-chem-master-window-pill-buffer-label = pill buffer:
-chem-master-window-pill-buffer-empty-text = Pill buffer empty.
-chem-master-window-pill-buffer-low-text = Not enough solution in pill buffer
-chem-master-window-save-as-frequent-label = Save as Frequent
-chem-master-window-set-amount-label = Set Amount
+chem-master-window-pill-buffer-text = буфер таблеток
+chem-master-window-pill-buffer-label = буфер таблеток:
+chem-master-window-pill-buffer-empty-text = Буфер таблеток пуст.
+chem-master-window-pill-buffer-low-text = Недостаточно раствора в буфере таблеток.
+chem-master-window-save-as-frequent-label = Сохранить как частое
+chem-master-window-set-amount-label = Установить кол-во
 chem-master-window-buffer-low-text = Недостаточно раствора в буфере
-chem-master-window-transferring-label = Transferring: [color={ $color }]{ $quantity }[/color]
-chem-master-window-transferring-default-label = Transferring: [color=#ffffff]50[/color]
-chem-master-window-reagent-move-button = Move
+chem-master-window-transferring-label = Перемещаем: [color={ $color }]{ $quantity }[/color]
+chem-master-window-transferring-default-label = Перемещаем: [color=#ffffff]50[/color]
+chem-master-window-reagent-move-button = Переместить
 chem-master-window-transfer-button = Перенести
 chem-master-window-discard-button = Уничтожить
 chem-master-window-packaging-text = Упаковка

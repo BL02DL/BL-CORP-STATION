@@ -5,7 +5,7 @@ ghost-role-information-blob-name = Блоб
 ghost-role-information-blob-description = Вы - инфекция Блоба. Поглотите станцию.
 roles-antag-blob-name = Блоб
 roles-antag-blob-objective = Достигните критической массы.
-guide-entry-blob = Blob
+guide-entry-blob = Блоб
 # Popups
 blob-target-normal-blob-invalid = Неправильный тип блоба, выберите обычный блоб.
 blob-target-factory-blob-invalid = Неправильный тип блоба, выберите фабрику блоба.

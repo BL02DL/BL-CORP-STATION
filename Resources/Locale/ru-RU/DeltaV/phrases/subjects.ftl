@@ -104,7 +104,7 @@ phrase-mail = почта
 phrase-order = заказ
 phrase-ore-processor = переработчик руды
 phrase-request = запрос
-phrase-spesos = спесо
+phrase-spesos = кредиты
 phrase-restock = пополнение
 # Шахтеры (Salvage)
 phrase-fulton = фултон

@@ -1,16 +1,12 @@
 ent-PillMindbreakerToxin = токсин майндбрейкер
     .desc = Убирает псонику при приёме внутрь. Слегка ядовит.
-
 ent-PillCryptobiolin = криптобиолин
     .desc = Длительное действие, вызывает лёгкое замешательство, но обеспечивает псоническую изоляцию.
-
 ent-PillCanisterCryptobiolin = { ent-PillCanister }
     .suffix = Криптобиолин, 5
     .desc = { ent-PillCanister.desc }
-
 ent-PillChloralHydrate = хлоральгидрат
     .desc = Сильное успокоительное средство.
-
 ent-PillCanisterChloralHydrate = { ent-PillCanister }
     .suffix = Хлоральгидрат, 5
     .desc = { ent-PillCanister.desc }

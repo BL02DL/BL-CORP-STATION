@@ -5,7 +5,7 @@ delivery-priority-inactive-examine = [color=#886600]Жёлтая лента пр
 delivery-recipient-no-job = Неизвестно
 delivery-unlocked = Вы разблокируете { $delivery } своим отпечатком пальца.
 delivery-opened = Вы открываете { $delivery }.
-delivery-penalty = С БАНКОВСКОГО СЧЁТА ЛОГИСТИКИ СПИСАН ШТРАФ В РАЗМЕРЕ { $credits } СПЕСО.
+delivery-penalty = С БАНКОВСКОГО СЧЁТА ЛОГИСТИКИ СПИСАН ШТРАФ В РАЗМЕРЕ { $credits } КРЕДИТОВ.
 delivery-unlock-verb = Разблокировать
 delivery-open-verb = Открыть
 # modifiers

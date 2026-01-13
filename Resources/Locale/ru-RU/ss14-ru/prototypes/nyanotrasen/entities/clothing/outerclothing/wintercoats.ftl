@@ -10,4 +10,3 @@ ent-ClothingOuterWinterCoatMantis = зимнее пальто богомола
     .desc = Решайте холодные дела со стилем.
 ent-ClothingOuterWinterMystagogue = зимнее пальто мистагога
     .desc = { ent-ClothingOuterWinterRD.desc }
-

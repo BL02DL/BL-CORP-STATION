@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitSeniorTrooper = senior trooper uniform
-    .desc = A formal uniform issued to the Nanotrasen Troopers, usually it comes with a car.
+ent-ClothingUniformJumpsuitSeniorTrooper = форма старшего патрульного
+    .desc = Форменная одежда, выдаваемая оперативникам NanoTrasen, обычно к ней прилагается машина.

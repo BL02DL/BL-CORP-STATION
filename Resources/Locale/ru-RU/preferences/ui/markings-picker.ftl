@@ -13,8 +13,6 @@ markings-category-RightLeg = Правая нога
 markings-category-RightFoot = Правая стопа
 markings-category-LeftLeg = Левая нога
 markings-category-LeftFoot = Левая стопа
-markings-category-Undershirt = Undershirt
-markings-category-Underwear = Underwear
 
 # Categories
 

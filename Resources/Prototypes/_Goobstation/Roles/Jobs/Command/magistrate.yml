@@ -1,7 +1,9 @@
 - type: job
   id: Magistrate
-  name: Magistrate
-  description: "Ensure Space Law is being followed, Uphold Justice and Legality, Hold Hearings and Trials, Follow SOP, Ensure Command is Following Space Law."
+  # LP edit start
+  name: job-name-magistrate
+  description: job-description-magistrate
+  # LP edit end
   playTimeTracker: JobMagistrate
   requirements:
     - !type:CharacterDepartmentTimeRequirement

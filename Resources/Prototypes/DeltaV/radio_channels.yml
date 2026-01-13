@@ -1,14 +1,14 @@
 - type: radioChannel
   id: Justice
   name: chat-radio-justice
-  keycode: "j"
+  keycode: "ю" # LP edit
   frequency: 1420
   color: "#c70667"
 
 - type: radioChannel
   id: Prison
   name: chat-radio-prison
-  keycode: 'p'
+  keycode: 'з' # LP edit
   frequency: 1601
   color: "#FFA500"
 

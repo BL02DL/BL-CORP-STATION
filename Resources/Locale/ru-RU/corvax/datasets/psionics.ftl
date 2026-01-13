@@ -1,0 +1,11 @@
+psionics-records-placeholders-1 = Поменялся телами с крысой 2 миллиарда раз
+psionics-records-placeholders-2 = Вознёсся в телепатическое измерение с помощью контроля разума
+psionics-records-placeholders-3 = Заставил клоуна ударить самого себя
+psionics-records-placeholders-4 = Заставил мима говорить с акцентом «ово»
+psionics-records-placeholders-5 = Взял капитана под контроль, чтобы тот ругался плохими словами
+psionics-records-placeholders-6 = Разозлил Оракула
+psionics-records-placeholders-7 = Стал псиоником
+psionics-records-placeholders-8 = Узурпировал трон
+psionics-records-placeholders-9 = Поменял Богомола телами с ботинком
+psionics-records-placeholders-10 = Нарисовал человечков-палочек в Библии священника
+psionics-records-placeholders-11 = Воскресил таракана

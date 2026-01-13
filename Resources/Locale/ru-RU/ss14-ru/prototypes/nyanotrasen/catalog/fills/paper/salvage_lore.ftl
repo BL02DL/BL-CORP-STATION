@@ -12,4 +12,3 @@ ent-PaperWrittenSalvageLoreGaming3 = { ent-Paper }
 ent-PaperWrittenSalvageLoreGaming4 = { ent-Paper }
     .suffix = Salvage: Лор: Игровая 4
     .desc = { ent-Paper.desc }
-

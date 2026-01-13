@@ -1,50 +1,11 @@
-- type: dataset
+- type: localizedDataset
   id: DionaFirst
   values:
-  - Moss
-  - Mushroom
-  - Herb
-  - Ivy
-  - Stalk
-  - Petal
-  - Thorn
-  - Rose
-  - Dandelion
-  - Birch
-  - Willow
-  - Bay
-  - Lake
-  - River
-  - Creek
-  - Meadow
-  - Canyon
-  - Mountain
-  - Peak
-  - Garden
-  - Soil
-  - Flower
+    prefix: diona-first- # LP edit
+    count: 22 # LP edit
 
-- type: dataset
+- type: localizedDataset
   id: DionaLast
   values:
-  - Peace
-  - Harmony
-  - Relaxation
-  - Serendipity
-  - Calmness
-  - Introspection
-  - Union
-  - Comfort
-  - Dreams
-  - Quietude
-  - Balance
-  - Gentleness
-  - Placidity
-  - Repose
-  - Serenity
-  - Stillness
-  - Tranquility
-  - Ease
-  - Equilibrium
-  - Composure
-  - Control
+    prefix: diona-last- # LP edit
+    count: 21 # LP edit

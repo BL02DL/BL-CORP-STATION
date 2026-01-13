@@ -24,3 +24,7 @@ ent-DrinkAtomicPunchGlass = { ent-DrinkGlass }
     .suffix = атомный панч
 ent-DrinkPinkDrinkGlass = { ent-DrinkGlass }
     .desc = Целые цивилизации рушились, пытаясь понять, действительно ли этот напиток на вк
+    .suffix = pink drink
+ent-DrinkBubbleTeaGlass = { ent-DrinkGlass }
+    .desc = Big straw not included.
+    .suffix = bubble tea

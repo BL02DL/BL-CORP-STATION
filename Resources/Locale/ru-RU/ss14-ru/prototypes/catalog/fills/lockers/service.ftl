@@ -1,4 +1,4 @@
-﻿ent-LockerBoozeFilled = { ent-LockerBooze }
+ent-LockerBoozeFilled = { ent-LockerBooze }
     .suffix = Заполненный
     .desc = { ent-LockerBooze.desc }
 ent-LockerBartenderFilled = { ent-LockerBartender }

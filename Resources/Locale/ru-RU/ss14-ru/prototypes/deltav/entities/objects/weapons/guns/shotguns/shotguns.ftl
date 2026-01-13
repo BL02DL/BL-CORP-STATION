@@ -1,5 +1,5 @@
-ent-WeaponShotgunAdjutant = adjutant
+ent-WeaponShotgunAdjutant = Адьютант
     .desc = Продаваемый как «полицейский» дробовик для подавления беспорядков, этот образец оснащён особым газоотводным механизмом, что делает его крайне эффективным в ближнем бою и при ведении подавляющего огня.
-ent-WeaponShotgunKammererNonLethal = Kammerer
+ent-WeaponShotgunKammererNonLethal = Каммерер
     .desc = Результат сочетания старого дизайна Remington и современных материалов. Излюбленное оружие сил ополчения на многих планетах. Использует дробь .50 shotgun shells.
     .suffix = Травматический

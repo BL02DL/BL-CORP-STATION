@@ -58,20 +58,20 @@ namespace Content.Shared.Humanoid
             switch (gender)
             {
                 case Gender.Male:
-                    return _random.Pick(_prototypeManager.Index<DatasetPrototype>(speciesProto.MaleFirstNames).Values);
+                    return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames).Values); // LP edit
                 case Gender.Female:
-                    return _random.Pick(_prototypeManager.Index<DatasetPrototype>(speciesProto.FemaleFirstNames).Values);
+                    return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames).Values); // LP edit
                 default:
                     if (_random.Prob(0.5f))
-                        return _random.Pick(_prototypeManager.Index<DatasetPrototype>(speciesProto.MaleFirstNames).Values);
+                        return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames).Values);
                     else
-                        return _random.Pick(_prototypeManager.Index<DatasetPrototype>(speciesProto.FemaleFirstNames).Values);
+                        return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames).Values); // LP edit
             }
         }
 
         public string GetLastName(SpeciesPrototype speciesProto)
         {
-            return _random.Pick(_prototypeManager.Index<DatasetPrototype>(speciesProto.LastNames).Values);
+            return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.LastNames).Values); // LP edit
         }
     }
 }

@@ -33,7 +33,7 @@
   id: SurvivalHellshift
   alias:
   - hellshift
-  showInVote: true
+  showInVote: false # LP edit
   name: hellshift-title
   description: hellshift-description
   rules:
@@ -141,7 +141,7 @@
   - greenshift
   - shittersafarideluxeedition
   name: greenshift-title
-  showInVote: true
+  showInVote: false # LP edit
   description: greenshift-description
   rules:
   - SpaceTrafficControlFriendlyEventScheduler

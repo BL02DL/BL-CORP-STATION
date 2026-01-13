@@ -2,7 +2,7 @@
 guide-entry-setting-lore = История мира
 guide-entry-corporations = Корпорации
 # Мегакорпорации
-guide-entry-einstein-engines = Einstein Engines
+guide-entry-einstein-engines = BL Corp
 guide-entry-hephaestus-industries = Hephaestus Industries
 guide-entry-idris-incorporated = Idris Incorporated
 guide-entry-nanotrasen = NanoTrasen

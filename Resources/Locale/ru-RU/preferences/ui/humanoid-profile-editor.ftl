@@ -1,6 +1,8 @@
 humanoid-profile-editor-randomize-everything-button = Случайный персонаж
 humanoid-profile-editor-name-label = Имя:
 humanoid-profile-editor-name-random-button = Сгенерировать
+humanoid-profile-editor-cybrog-name-label = Имя Борга:
+humanoid-profile-editor-station-ai-name-label = Имя Станционного ИИ:
 humanoid-profile-editor-appearance-tab = Внешность
 humanoid-profile-editor-background-tab = История
 humanoid-profile-editor-clothing = Отображать одежду
@@ -73,7 +75,7 @@ humanoid-profile-editor-job-priority-medium-button = Средний
 humanoid-profile-editor-job-priority-low-button = Низкий
 humanoid-profile-editor-job-priority-never-button = Никогда
 humanoid-profile-editor-naming-rules-warning = Внимание: Неуместные имена и описания могут привести к вмешательству администрации. Ознакомьтесь с правилами сервера.
-humanoid-profile-editor-markings-tab = Отметины
+humanoid-profile-editor-markings-tab = Черты внешности>
 humanoid-profile-editor-loadouts-tab = Снаряжение
 humanoid-profile-editor-loadouts-points-label = Очки снаряжения: { $points }/{ $max }
 humanoid-profile-editor-loadouts-show-unusable-button = Показать недоступное снаряжение

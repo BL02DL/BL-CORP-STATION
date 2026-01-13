@@ -514,20 +514,20 @@ character-item-group-LoadoutCadetMask = Маски кадета
 character-item-group-LoadoutCadetOuter = Верхняя одежда кадета
 character-item-group-LoadoutCadetShoes = Обувь кадета
 character-item-group-LoadoutCadetUniforms = Униформа кадета
-# Служба безопасности — Корпусмен
-character-item-group-LoadoutCorpsmanBackpacks = Рюкзак корпусмена
-character-item-group-LoadoutCorpsmanBelt = Пояс корпусмена
-character-item-group-LoadoutCorpsmanEars = Гарнитура корпусмена
-character-item-group-LoadoutCorpsmanEquipment = Снаряжение корпусмена
-character-item-group-LoadoutCorpsmanEyes = Очки корпусмена
-character-item-group-LoadoutCorpsmanGloves = Перчатки корпусмена
-character-item-group-LoadoutCorpsmanHead = гарнитура корпусмена
-character-item-group-LoadoutCorpsmanId = ID-карта корпусмена
-character-item-group-LoadoutCorpsmanNeck = Шейные аксессуары корпусмена
-character-item-group-LoadoutCorpsmanMask = Маски корпусмена
-character-item-group-LoadoutCorpsmanOuter = Верхняя одежда корпусмена
-character-item-group-LoadoutCorpsmanShoes = Обувь корпусмена
-character-item-group-LoadoutCorpsmanUniforms = Униформа корпусмена
+# Служба безопасности — Бригмедик
+character-item-group-LoadoutCorpsmanBackpacks = Рюкзак Бригмедика
+character-item-group-LoadoutCorpsmanBelt = Пояс Бригмедика
+character-item-group-LoadoutCorpsmanEars = Гарнитура Бригмедика
+character-item-group-LoadoutCorpsmanEquipment = Снаряжение Бригмедика
+character-item-group-LoadoutCorpsmanEyes = Очки Бригмедика
+character-item-group-LoadoutCorpsmanGloves = Перчатки Бригмедика
+character-item-group-LoadoutCorpsmanHead = гарнитура Бригмедика
+character-item-group-LoadoutCorpsmanId = ID-карта Бригмедика
+character-item-group-LoadoutCorpsmanNeck = Шейные аксессуары Бригмедика
+character-item-group-LoadoutCorpsmanMask = Маски Бригмедика
+character-item-group-LoadoutCorpsmanOuter = Верхняя одежда Бригмедика
+character-item-group-LoadoutCorpsmanShoes = Обувь Бригмедика
+character-item-group-LoadoutCorpsmanUniforms = Униформа Бригмедика
 # Служба безопасности — Детектив
 character-item-group-LoadoutDetectiveBackpacks = Рюкзак детектива
 character-item-group-LoadoutDetectiveBelt = Пояс детектива

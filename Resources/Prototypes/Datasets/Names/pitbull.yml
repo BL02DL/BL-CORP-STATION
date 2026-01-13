@@ -1,40 +1,5 @@
-- type: dataset
+- type: localizedDataset
   id: names_pitbull
   values:
-  - Amon
-  - Arioch
-  - Baby
-  - Blaze
-  - Blue
-  - Bubbles
-  - Buttercup
-  - Cuddles
-  - Cujo
-  - Daffodil
-  - Daisy
-  - Dante
-  - Demon
-  - Diesel
-  - Echo
-  - Face Eater
-  - Franny
-  - Hades
-  - Killer
-  - Lady
-  - Lucifer
-  - Luna
-  - Magnum
-  - Mammon
-  - Midas
-  - Paisley
-  - Peaches
-  - Petunia
-  - Princess
-  - Rainbow
-  - Reaper
-  - Satan
-  - Sweetie
-  - Trixie
-  - Trogdor
-  - Tutu
-  - Zeus
+    prefix: names-pitbull- # LP edit
+    count: 37 # LP edit

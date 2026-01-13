@@ -129,7 +129,7 @@ namespace Content.Client.Lobby.UI
         [ValidatePrototypeId<LocalizedDatasetPrototype>]
         private const string StationAiNames = "NamesAI";
 
-        [ValidatePrototypeId<DatasetPrototype>]
+        [ValidatePrototypeId<LocalizedDatasetPrototype>] // LP edit
         private const string CyborgNames = "names_borg";
 
         public HumanoidProfileEditor(
@@ -1631,7 +1631,7 @@ namespace Content.Client.Lobby.UI
             if (CyborgNameEdit.Text != string.Empty)
                 return;
 
-            var borgNames = _prototypeManager.Index<DatasetPrototype>(CyborgNames);
+            var borgNames = _prototypeManager.Index<LocalizedDatasetPrototype>(CyborgNames); // LP edit
             var randomName = _random.Pick(borgNames.Values);
             CyborgNameEdit.PlaceHolder = Loc.GetString(randomName);
         }

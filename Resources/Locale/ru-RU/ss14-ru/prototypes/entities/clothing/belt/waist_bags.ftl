@@ -1,4 +1,4 @@
 ent-ClothingBeltStorageWaistbag = кожаная поясная сумка
     .desc = Кожаная поясная сумка, в которой можно носить небольшие предметы.
-ent-ClothingBeltStorageWaistbagColor = waist bag
-    .desc = A waist bag meant for carrying small items.
+ent-ClothingBeltStorageWaistbagColor = поясная сумка
+    .desc = Поясная сумка, предназначенная для переноски мелких предметов.

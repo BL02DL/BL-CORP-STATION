@@ -6,4 +6,3 @@ ent-FloorTileItemDirt = плитка земли
     .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemBedrock = плитка базальта
     .desc = { ent-FloorTileItemBase.desc }
-

@@ -1,6 +1,7 @@
 ﻿- type: entity
   parent: DrinkGlassBase
   id: DrinkMeth
+  categories: [ HideSpawnMenu ] # LP edit
   name: meth  # beer it is. coffee. beer? coff-ee? be-er? c-o... b-e
   description: Just a whole glass of meth.
   suffix: DEBUG

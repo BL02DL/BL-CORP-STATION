@@ -1,6 +1,8 @@
 humanoid-profile-editor-randomize-everything-button = Randomize everything
 humanoid-profile-editor-name-label = Name:
 humanoid-profile-editor-name-random-button = Randomize
+humanoid-profile-editor-cybrog-name-label = Borg name:
+humanoid-profile-editor-station-ai-name-label = Station AI name:
 humanoid-profile-editor-appearance-tab = Appearance
 humanoid-profile-editor-background-tab = Background
 humanoid-profile-editor-clothing = Preview job equipment:

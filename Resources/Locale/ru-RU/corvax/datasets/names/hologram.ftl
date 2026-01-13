@@ -1,0 +1,14 @@
+names-hologram-1 = Аполлон
+names-hologram-2 = Дейта
+names-hologram-3 = ГЛИММЕР
+names-hologram-4 = Эль Рои
+names-hologram-5 = Гефест
+names-hologram-6 = Голо-ИИ
+names-hologram-7 = Голо-Друг
+names-hologram-8 = Голограмма
+names-hologram-9 = Одиссей
+names-hologram-10 = Персефона
+names-hologram-11 = Петра
+names-hologram-12 = Процессор
+names-hologram-13 = Прометей
+names-hologram-14 = Тесей

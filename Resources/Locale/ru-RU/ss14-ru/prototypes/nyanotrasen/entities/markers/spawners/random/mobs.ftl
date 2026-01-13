@@ -20,4 +20,3 @@ ent-SpaceCreatureAISpawner = Спавнер космических сущест�
     .desc = { ent-MarkerBase.desc }
 ent-ArenaSpawner = Спавнер арены
     .desc = { ent-MarkerBase.desc }
-

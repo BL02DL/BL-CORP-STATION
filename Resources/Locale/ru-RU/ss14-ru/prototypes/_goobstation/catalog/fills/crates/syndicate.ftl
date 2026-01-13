@@ -1,8 +1,8 @@
-ent-CrateCybersunDarkGygaxBundle = набор Гайгакс Cybersun
-    .desc = Содержит комплект легкобронированных мехов Гайгакс от Cybersun.
+ent-CrateCybersunDarkGygaxBundle = набор «Гайгакс» Cybersun
+    .desc = Содержит набор для легкобронированного меха Гайгакс от Cybersun.
     .suffix = Заполнен
-ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
-    .desc = Contains a set of Cybersan heavy armored mechs.
+ent-CrateCybersunMaulerBundle = набор «Маулер» Cybersun
+    .desc = Содержит набор для тяжелобронированного меха Маулер от Cybersun.
     .suffix = Заполненный
 ent-CrateSyndicateDreadnought = набор Дредноут Cybersun
     .desc = Продвинутый набор меха Дредноут от Cybersun.

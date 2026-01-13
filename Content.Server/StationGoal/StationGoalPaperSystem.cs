@@ -29,7 +29,7 @@ public sealed class StationGoalPaperSystem : EntitySystem
 
     [ValidatePrototypeId<WeightedRandomPrototype>]
     private const string RandomPrototype = "StationGoals";
-    [ValidatePrototypeId<DatasetPrototype>]
+    [ValidatePrototypeId<LocalizedDatasetPrototype>] // LP edit
     private const string RandomSignature = "names_last";
 
     public override void Initialize()
@@ -89,7 +89,7 @@ public sealed class StationGoalPaperSystem : EntitySystem
     {
         var enumerator = EntityManager.EntityQueryEnumerator<FaxMachineComponent>();
         var wasSent = false;
-        var signerName = _prototype.Index<DatasetPrototype>(RandomSignature);
+        var signerName = _prototype.Index<LocalizedDatasetPrototype>(RandomSignature); // LP edit
 
         while (enumerator.MoveNext(out var uid, out var fax))
         {

@@ -4,4 +4,3 @@ ent-ClothingOuterArmorKendoBogu = броня богу
     .desc = Комплект брони, используемой в кэндо. Закрывает талию, торс и руки.
 ent-ClothingOuterArmorTouseiGusoku = тусэй-гусоку
     .desc = Современная реплика доспехов Ni-mai-do Gusoku.
-

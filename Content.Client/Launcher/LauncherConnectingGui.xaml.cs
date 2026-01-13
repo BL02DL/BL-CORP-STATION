@@ -35,6 +35,14 @@ namespace Content.Client.Launcher
             _prototype = prototype;
             _cfg = config;
 
+            // LP edit start
+            var linkDiscord = _cfg.GetCVar(CCVars.InfoLinksDiscord);
+            var linkWebsite = _cfg.GetCVar(CCVars.InfoLinksWebsite);
+            var linkWiki = _cfg.GetCVar(CCVars.InfoLinksWiki);
+            var linkGithub = _cfg.GetCVar(CCVars.InfoLinksGithub);
+            var linkForum = _cfg.GetCVar(CCVars.InfoLinksForum);
+            // LP edit end
+
             RobustXamlLoader.Load(this);
 
             LayoutContainer.SetAnchorPreset(this, LayoutContainer.LayoutPreset.Wide);
@@ -51,6 +59,20 @@ namespace Content.Client.Launcher
             };
             RetryButton.OnPressed += _ => _state.RetryConnect();
             ExitButton.OnPressed += _ => _state.Exit();
+
+            // LP edit start
+            OpenDiscordButton.Visible = _cfg.GetCVar(CCVars.InfoLinksDiscord) != "";
+            OpenWikiButton.Visible = _cfg.GetCVar(CCVars.InfoLinksWiki) != "";
+            OpenWebsiteButton.Visible = _cfg.GetCVar(CCVars.InfoLinksWebsite) != "";
+            OpenGithubButton.Visible = _cfg.GetCVar(CCVars.InfoLinksGithub) != "";
+            OpenForumButton.Visible = _cfg.GetCVar(CCVars.InfoLinksForum) != "";
+
+            OpenDiscordButton.OnPressed += _ => IoCManager.Resolve<IUriOpener>().OpenUri(linkDiscord);
+            OpenWikiButton.OnPressed += _ => IoCManager.Resolve<IUriOpener>().OpenUri(linkWiki);
+            OpenWebsiteButton.OnPressed += _ => IoCManager.Resolve<IUriOpener>().OpenUri(linkWebsite);
+            OpenGithubButton.OnPressed += _ => IoCManager.Resolve<IUriOpener>().OpenUri(linkGithub);
+            OpenForumButton.OnPressed += _ => IoCManager.Resolve<IUriOpener>().OpenUri(linkForum);
+            // LP edit end
 
             var addr = state.Address;
             if (addr != null)

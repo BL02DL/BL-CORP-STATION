@@ -1,0 +1,17 @@
+names-oni-male-1 = Киёши
+names-oni-male-2 = Сатоши
+names-oni-male-3 = Тэру
+names-oni-male-4 = Хироши
+names-oni-male-5 = Такаши
+names-oni-male-6 = Эичи
+names-oni-male-7 = Эичиро
+names-oni-male-8 = Кёсабуро
+names-oni-male-9 = Цутому
+names-oni-male-10 = Цуёши
+names-oni-male-11 = Кэнши
+names-oni-male-12 = Кэнджи
+names-oni-male-13 = Кэнъичи
+names-oni-male-14 = Сусуму
+names-oni-male-15 = Кёносукэ
+names-oni-male-16 = Суйсэй
+names-oni-male-17 = Шютэн

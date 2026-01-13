@@ -1,7 +1,7 @@
 ent-ClothingBeltMantis = пояс мантиса
     .desc = Прекрасно подходит для хранения всего твоего снаряжения.
 ent-ClothingBeltMartialBlack = черный пояс
-    .desc =Это самый боевой из всех поясов.
+    .desc = Это самый боевой из всех поясов.
 ent-ClothingBeltKatanaSheath = ножны катаны
     .desc = Изысканный пояс, предназначенный для ношения пары самурайских клинков, или дайсё.
 ent-ClothingBeltMilitaryWebbingCMO = компрессионная рубашка главного врача

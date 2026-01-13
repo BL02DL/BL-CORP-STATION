@@ -1,9 +1,9 @@
-ent-WeaponRifleVulcan = Vulcan
+ent-WeaponRifleVulcan = Вулкан
     .desc = Одно из первых огнестрельных орудий, модифицированных для использования в космосе. Эта винтовка была специально разработана для пробивания брони «боевых мехов» Каргонии. Использует патроны .30 rifle.
-ent-WeaponRifleJackdaw = CAWS-25 Jackdaw
+ent-WeaponRifleJackdaw = CAWS-25 Джекдоу
     .desc = Песня галки предвещает начало конца. Использует безгильзовые патроны .25 безгильзовые.
     .suffix = Эскадрон смерти
-ent-WeaponRifleTenebra = Tenebra
+ent-WeaponRifleTenebra = Тенебра
     .desc = Массовая минималистичная винтовка в компоновке булл-пап. Использует патроны .20 винтовочные.
     .suffix = Наёмник
 ent-WeaponRifleMusket = Мушкет

@@ -1,2 +1,2 @@
-ent-Chitzite = chitzite
-    .desc = A small radioactive stone formed in the chest cavity of a radioactive chitinid, gross.... but kinda pretty?
+ent-Chitzite = хитинид
+    .desc = Небольшой радиоактивный камень, образовавшийся в грудной полости радиоактивного хитинида, гадость... но вроде как красиво?

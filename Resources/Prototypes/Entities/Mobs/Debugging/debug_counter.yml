@@ -1,4 +1,5 @@
 - type: entity
+  categories: [ HideSpawnMenu ] # LP edit
   parent: MobHuman
   id: MobDebugCounter
   name: debug counter
@@ -22,6 +23,7 @@
   name: debug random counter
   description: He can randomize
   suffix: AI, DEBUG
+  categories: [ HideSpawnMenu ] # LP edit
   components:
     - type: HTN
       rootTask:
@@ -40,6 +42,7 @@
   name: debug random less
   description: He can lessing
   suffix: AI, DEBUG
+  categories: [ HideSpawnMenu ]
   components:
     - type: HTN
       rootTask:
