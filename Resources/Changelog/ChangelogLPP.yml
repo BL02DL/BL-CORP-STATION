@@ -23,3 +23,10 @@ Entries:
   id: 5606
   time: '2026-01-13T22:32:13.0000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Main-Station/pull/5
+- author: MegaDaimond
+  changes:
+    - type: Tweak
+      message: Изменены спрайты шлюзов
+  id: 5607
+  time: '2026-01-13T19:45:00.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/7
