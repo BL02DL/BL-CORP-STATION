@@ -44,3 +44,10 @@ Entries:
   id: 5609
   time: '2026-01-14T08:53:59.0000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Main-Station/pull/6
+- author: Evgencheg
+  changes:
+    - type: Add
+      message: Добавлен биокодинг на скафандры ЭС, ЯО и ОБР
+  id: 5610
+  time: '2026-01-14T19:37:06.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/10
