@@ -65,3 +65,24 @@ Entries:
   id: 5612
   time: '2026-01-15T12:16:38.0000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Main-Station/pull/8
+- author: BL02DL
+  changes:
+    - type: Add
+      message: Добавлены новые протолаты!
+    - type: Add
+      message: Добавлены платы новых протолатов главам!
+    - type: Add
+      message: Добавлен заказ платы протолата в карго!
+    - type: Remove
+      message: Удалена плата протолата из рандомного пула!
+    - type: Remove
+      message: Удалён исследователь глиммера!
+    - type: Remove
+      message: Удалён модификатор цены исследований!
+    - type: Tweak
+      message: Изменён способ получения протолата, теперь его плата продаётся в карго!
+    - type: Tweak
+      message: Изменено описание BL CORP!
+  id: 5613
+  time: '2026-01-15T13:34:28.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/11
